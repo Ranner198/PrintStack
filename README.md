@@ -1,4 +1,4 @@
-<h1 style="color: blue;" align="center">Print Stack</h1>
+<h1 align="center">Print Stack</h1>
 
 <p align="center"> Stack tracing module that shows the script's name and line number of the position called </p>
 
