@@ -23,16 +23,13 @@
 $ npm i printstack
 ```
 <h3>Usage</h3>
-```
 
+```javascript
 var Stack = require('printstack');
-
 Stack.PrintStack();
 #File: <The File Name>
 #Line Number: <Line Number>
-
 #or
-
 Stack.PrintStack("This is a comment that will show up.");
 #File: <The File Name>
 #Line Number: <Line Number>
