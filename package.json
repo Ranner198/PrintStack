@@ -1,0 +1,11 @@
+{
+  "name": "printstack",
+  "version": "1.0.6",
+  "description": "Extends the console commands to log out the file name and line number for easier debugging in a functional enviroment",
+  "main": "PrintStack.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ran Crump",
+  "license": "ISC"
+}
