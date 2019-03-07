@@ -12,6 +12,8 @@
 <li>Ability to call the Print Stack function with optional overloading for error logging with or without an additional comment passed.</li>
 </ul>
 
+<hr/>
+
 <h3> Example Usage </h3>
 
 
@@ -36,6 +38,7 @@ Stack.PrintStack("This is a comment that will show up.");
 //Line Number: <Line Number>
 //This is a comment that will show up.
 ```
+<hr/>
 
 <h3>Authors or Acknowledgments</h3>
 <ul>
@@ -43,6 +46,5 @@ Stack.PrintStack("This is a comment that will show up.");
 </ul>
 
 <h3>License</h3>
-
-This project is licensed under the MIT License
+<p>This project is licensed under the MIT License</p>
 
